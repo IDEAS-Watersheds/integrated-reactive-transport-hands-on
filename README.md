@@ -45,7 +45,7 @@ _Set up and test a geochemical problem in PFLOTRAN (Glenn)._
 
 * **Integrated reactive transport:**
 
-_Set up a reactive transport problem building on the column simulation and PFLOTRAN inputs, LIVE! debugging (Sergi and Glenn)._
+_Set up a reactive transport problem building on the column simulation and PFLOTRAN inputs and troubleshooting (Sergi and Glenn)._
 
 * **Integrated reactive transport:**  
 
