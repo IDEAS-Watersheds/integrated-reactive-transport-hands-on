@@ -8,7 +8,7 @@ Date: December 9, 2023
 
 Location: Stanford University 
 
-# 1. Learning Objectives
+# Learning Objectives
 
 At the end of the workshop, participants will be able to:
 
@@ -16,7 +16,7 @@ At the end of the workshop, participants will be able to:
 * Set up a PFLOTRAN input file
 * Address common issues that arise when setting up a new reactive transport problem
 
-# 2. Prerequisites
+# Prerequisites
 
 To maximize the learning experience from the workshop, participants should have be familiar with 
 * Integrated hydrology and solute transport
@@ -25,32 +25,32 @@ To maximize the learning experience from the workshop, participants should have 
 * The use of containers on their computers 
 * The use of text editors and visualization tools (e.g. Visit, Parflow)
   
-# 3. Materials and Resources
+# Materials and Resources
 
-## 3.1. References
+## References
 
 Molins, Sergi, et al. "A Multicomponent Reactive Transport Model for Integrated Surface‐Subsurface Hydrology Problems." Water Resources Research 58.8 (2022): e2022WR032074. [DOI](https://doi.org/10.1029/2022WR032074)
 
 Peter C. Lichtner, Glenn E. Hammond, Chuan Lu, Satish Karra, Gautam Bisht, Benjamin Andre, Richard T. Mills, Jitendra Kumar, Jennifer M. Frederick (2020): "PFLOTRAN User Manual, [link](http://documentation.pflotran.org)
 
-## 3.2. Course files and containers
+## Course files and containers
 Coming soon. 
 
-# 4. Outline
+# Outline
 
-* **Tracer transport:**  
+* **1. Tracer transport:**  
 
 _Set up an integrated tracer transport problem in a column building on ATS integrated hydrology inputs (Sergi)._
 
-* **Geochemical reaction network:**  
+* **2. Geochemical reaction network:**  
 
 _Set up and test a geochemical problem in PFLOTRAN (Glenn)._
 
-* **Integrated reactive transport:**
+* **3. Integrated reactive transport:**
 
 _Set up a reactive transport problem building on the column simulation and PFLOTRAN inputs and troubleshooting (Sergi and Glenn)._
 
-* **Integrated reactive transport:**  
+* **4. Integrated reactive transport:**  
 
 _Set up more complex simulations: the hillslope example (Sergi)._
 
