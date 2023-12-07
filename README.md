@@ -3,7 +3,9 @@
 This workshop was developed for the IDEAS-Watersheds Phase 2 All Hands.
 
 Facilitators: Sergi Molins (LBNL) and Glenn Hammond (PNNL)
+
 Date: December 9, 2023
+
 Location: Stanford University 
 
 # 1. Learning Objectives
