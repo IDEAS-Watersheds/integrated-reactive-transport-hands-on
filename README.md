@@ -29,7 +29,7 @@ To maximize the learning experience from the workshop, participants should have 
 
 Molins, Sergi, et al. "A Multicomponent Reactive Transport Model for Integrated Surface‐Subsurface Hydrology Problems." Water Resources Research 58.8 (2022): e2022WR032074. [DOI](https://doi.org/10.1029/2022WR032074)
 
-Peter C. Lichtner and Glenn E. Hammond and Chuan Lu and Satish Karra and Gautam Bisht and Benjamin Andre and Richard T. Mills and Jitendra Kumar and Jennifer M. Frederick (2020): "PFLOTRAN User Manual, [link](http://documentation.pflotran.org)
+Peter C. Lichtner, Glenn E. Hammond, Chuan Lu, Satish Karra, Gautam Bisht, Benjamin Andre, Richard T. Mills, Jitendra Kumar, Jennifer M. Frederick (2020): "PFLOTRAN User Manual, [link](http://documentation.pflotran.org)
 
 ## 3.2. Course files and containers
 Coming soon. 
