@@ -14,7 +14,7 @@ https://github.com/amanzi/ats-demos
 
 `docker run -it -v $(pwd):/home/amanzi_user/work:delegated -w /home/amanzi_user/work metsi/ats:master-latest`
 
-* Pull ats-demos
+* Clone ats-demos
 
 `git clone https://github.com/amanzi/ats-demos.git`
 
