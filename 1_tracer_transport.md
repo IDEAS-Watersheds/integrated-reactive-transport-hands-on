@@ -10,7 +10,7 @@ https://github.com/amanzi/ats-demos
 
 * Start the ATS dockerhub image 
 
-`docker pull ats:master-latest`
+`docker pull metsi/ats:master-latest`
 
 `docker run -it -v $(pwd):/home/amanzi_user/work:delegated -w /home/amanzi_user/work metsi/ats:master-latest`
 
